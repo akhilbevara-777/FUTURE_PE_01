@@ -1,0 +1,26 @@
+PROMPT 1:
+Generate homepage website copy for a modern beauty salon in Hyderabad.
+Target audience: Women aged 20-40.
+Tone: Friendly, stylish, professional.
+Include:
+- Headline
+- Subheadline
+- Intro paragraph
+- CTA
+
+PROMPT 2:
+Generate service page content for a beauty salon.
+Services:
+- Haircut
+- Hair Spa
+- Facial
+- Bridal Makeup
+Include benefits and customer-friendly descriptions.
+
+PROMPT 3:
+Generate strong CTA sections for a salon website.
+Include:
+- Booking CTA
+- Contact CTA
+- Trust-building CTA
+Tone should be persuasive and simple.
